@@ -27,7 +27,6 @@ jobs:
     - name: Build
       run: |
         # Add build steps here, if needed
-        pyb
 
   test:
     runs-on: ubuntu-latest
