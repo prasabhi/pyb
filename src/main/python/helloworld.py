@@ -1,4 +1,4 @@
--"""
+"""
 This is a simple module to demonstrate a hello world function in Python.
 """
 
